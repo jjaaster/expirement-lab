@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>Hello World</title>
+        
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" type="text/css" href="library/basic.css">
+        <script src="library/basic.js" type="text/javascript" charset="utf-8"></script>
+
+        <script>
+
+        var txtMessage
+
+        var btnWrite
+
+        var start = function() {
+
+            txtMessage = createTextBox()
+           
+            txtMessage.left = 50
+           
+            txtMessage.top = 50
+ 
+            btnWrite = createButton()
+         
+            btnWrite.text = "Write"
+            
+            btnWrite.left = 50
+       
+            btnWrite.top = 110
+
+
+            btnWrite.onClick(writeMessage)
+            
+        }
+
+        var writeMessage = function() {
+
+           
+            txtMessage.text = "Poop"
+            
+        }
+
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
