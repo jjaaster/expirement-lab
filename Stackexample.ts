@@ -1,8 +1,4 @@
 
-//this file is for JS work, W.I.P soon.
-
-//not my code ;p
-
 import Node from './Node';
 
 class Stack<T> {
