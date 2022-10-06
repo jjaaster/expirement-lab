@@ -26,7 +26,7 @@ public class PermuteString {
             for (int i = start; i < end; i++) {
                   
                 str = swapString(str, start, i);
-                //Recursively calling function generatePermutation() for rest of the characters     
+    
                 generatePermutation(str, start + 1, end);
    
                 str = swapString(str, start, i);
