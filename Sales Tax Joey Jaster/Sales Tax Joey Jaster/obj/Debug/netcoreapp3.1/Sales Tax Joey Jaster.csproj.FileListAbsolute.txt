@@ -1,0 +1,15 @@
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\bin\Debug\netcoreapp3.1\Sales Tax Joey Jaster.exe
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\bin\Debug\netcoreapp3.1\Sales Tax Joey Jaster.deps.json
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\bin\Debug\netcoreapp3.1\Sales Tax Joey Jaster.runtimeconfig.json
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\bin\Debug\netcoreapp3.1\Sales Tax Joey Jaster.runtimeconfig.dev.json
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\bin\Debug\netcoreapp3.1\Sales Tax Joey Jaster.dll
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\bin\Debug\netcoreapp3.1\Sales Tax Joey Jaster.pdb
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.csprojAssemblyReference.cache
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales_Tax_Joey_Jaster.Form1.resources
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.csproj.GenerateResource.cache
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.AssemblyInfoInputs.cache
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.AssemblyInfo.cs
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.csproj.CoreCompileInputs.cache
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.dll
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.pdb
+C:\Users\j_jaster\source\repos\Sales Tax Joey Jaster\Sales Tax Joey Jaster\obj\Debug\netcoreapp3.1\Sales Tax Joey Jaster.genruntimeconfig.cache
