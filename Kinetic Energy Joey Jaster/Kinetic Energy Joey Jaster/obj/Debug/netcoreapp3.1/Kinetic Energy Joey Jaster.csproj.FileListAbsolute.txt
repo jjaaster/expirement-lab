@@ -1,0 +1,31 @@
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.exe
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.deps.json
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.runtimeconfig.json
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.runtimeconfig.dev.json
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.dll
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.pdb
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.csprojAssemblyReference.cache
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic_Energy_Joey_Jaster.Form1.resources
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.csproj.GenerateResource.cache
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.AssemblyInfoInputs.cache
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.AssemblyInfo.cs
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.csproj.CoreCompileInputs.cache
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.dll
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.pdb
+C:\Users\j_jaster\source\repos\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.genruntimeconfig.cache
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.exe
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.deps.json
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.runtimeconfig.json
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.runtimeconfig.dev.json
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.dll
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\bin\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.pdb
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.csproj.AssemblyReference.cache
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic_Energy_Joey_Jaster.Form1.resources
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.csproj.GenerateResource.cache
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.AssemblyInfoInputs.cache
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.AssemblyInfo.cs
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.csproj.CoreCompileInputs.cache
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.dll
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.pdb
+E:\Education\C# Prof. Keion and Liska\Kinetic Energy Joey Jaster\Kinetic Energy Joey Jaster\obj\Debug\netcoreapp3.1\Kinetic Energy Joey Jaster.genruntimeconfig.cache
