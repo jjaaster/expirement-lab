@@ -1,0 +1,10 @@
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe.config
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csprojAssemblyReference.cache
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\obj\Debug\Mass_and_Weight.Properties.Resources.resources
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.GenerateResource.cache
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.CoreCompileInputs.cache
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.exe
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.pdb
+C:\Users\j_jaster\source\repos\Mass and Weight\Mass and Weight\obj\Debug\Mass_and_Weight.Form1.resources
